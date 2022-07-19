@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Diabecare</string>
+    <string name="main_url"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blogs">Blogs</string>
+    <string name="history">History</string>
+    <string name="consultation">Consultation</string>
+    <string name="bmi">BMI</string>
+    <string name="textview">TextView</string>
+    <string name="check_diabetes">Check Diabetes</string>
+</resources>
