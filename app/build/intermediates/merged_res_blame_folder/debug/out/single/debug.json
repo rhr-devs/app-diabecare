@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\layout_fragment_consultation.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\layout\\fragment_consultation.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\layout_fragment_blogs.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\layout\\fragment_blogs.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\drawable_rounded_corners.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\drawable\\rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\drawable_ic_baseline_menu_24.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\drawable\\ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\drawable_doctor.png.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\drawable\\doctor.png"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\drawable_bottomsheet_background.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\drawable\\bottomsheet_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\drawable_diabetes_icon.jpg.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\drawable\\diabetes_icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\drawable_bmi.png.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\drawable\\bmi.png"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\drawable_history.png.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\drawable\\history.png"
+    },
+    {
+        "merged": "com.example.android.diabecare.app-merged_res-43:/layout_menu_bottom_sheet.xml.flat",
+        "source": "com.example.android.diabecare.app-main-45:/layout/menu_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\layout_fragment_history.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\layout_fragment_bmi.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\layout\\fragment_bmi.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\drawable_icon_blogs.png.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\drawable\\icon_blogs.png"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\drawable_ic_baseline_close_24.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\drawable\\ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\menu_bottom_app_bar.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\menu\\bottom_app_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\drawable_avatar.png.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\drawable\\avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\layout_menu_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\layout\\menu_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\drawable_ic_baseline_cancel_24.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\drawable\\ic_baseline_cancel_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\drawable_ic_baseline_double_arrow_24.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\drawable\\ic_baseline_double_arrow_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\layout_fragment_check_diabetes.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\layout\\fragment_check_diabetes.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-merged_res-43:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    }
+]

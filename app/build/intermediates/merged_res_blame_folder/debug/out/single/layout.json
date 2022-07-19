@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-mergeDebugResources-42:\\layout\\fragment_consultation.xml",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\layout\\fragment_consultation.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-mergeDebugResources-42:\\layout\\menu_bottom_sheet.xml",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\layout\\menu_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-mergeDebugResources-42:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-mergeDebugResources-42:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-mergeDebugResources-42:\\layout\\fragment_bmi.xml",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\layout\\fragment_bmi.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-mergeDebugResources-42:\\layout\\fragment_check_diabetes.xml",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\layout\\fragment_check_diabetes.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-mergeDebugResources-42:\\layout\\fragment_history.xml",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-mergeDebugResources-42:\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "com.example.android.diabecare.app-mergeDebugResources-42:/layout/menu_bottom_sheet.xml",
+        "source": "com.example.android.diabecare.app-main-45:/layout/menu_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-mergeDebugResources-42:\\layout\\fragment_blogs.xml",
+        "source": "C:\\Users\\navne\\.gradle\\daemon\\7.3.3\\com.example.android.diabecare.app-main-45:\\layout\\fragment_blogs.xml"
+    }
+]

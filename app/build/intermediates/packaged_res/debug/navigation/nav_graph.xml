@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph.xml"
+    app:startDestination="@id/home">
+
+    <fragment
+        android:id="@+id/history"
+        android:name="com.example.android.diabecare.ui.History"
+        android:label="History"
+        tools:layout="@layout/fragment_history" >
+        <action
+            android:id="@+id/action_history_to_bmi"
+            app:destination="@id/bmi" />
+        <action
+            android:id="@+id/action_history_to_consultation"
+            app:destination="@id/consultation" />
+        <action
+            android:id="@+id/action_history_to_blogs"
+            app:destination="@id/blogs" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/home"
+        android:name="com.example.android.diabecare.ui.Home"
+        android:label="Dashboard"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_home_to_checkDiabetes"
+            app:destination="@id/checkDiabetes" />
+        <action
+            android:id="@+id/action_home_to_bmi"
+            app:destination="@id/bmi" />
+        <action
+            android:id="@+id/action_home_to_search"
+            app:destination="@id/search" />
+        <action
+            android:id="@+id/action_home_to_history"
+            app:destination="@id/history" />
+        <action
+            android:id="@+id/action_home_to_consultation"
+            app:destination="@id/consultation" />
+        <action
+            android:id="@+id/action_home_to_blogs"
+            app:destination="@id/blogs" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/checkDiabetes"
+        android:name="com.example.android.diabecare.ui.checkDiabetes"
+        android:label="Check Diabetes"
+        tools:layout="@layout/fragment_check_diabetes" >
+        <action
+            android:id="@+id/action_checkDiabetes_to_bmi"
+            app:destination="@id/bmi" />
+        <action
+            android:id="@+id/action_checkDiabetes_to_history"
+            app:destination="@id/history" />
+        <action
+            android:id="@+id/action_checkDiabetes_to_consultation"
+            app:destination="@id/consultation" />
+        <action
+            android:id="@+id/action_checkDiabetes_to_blogs"
+            app:destination="@id/blogs" />
+    </fragment>
+    <fragment
+        android:id="@+id/bmi"
+        android:name="com.example.android.diabecare.ui.BMI"
+        android:label="BMI Calculator"
+        tools:layout="@layout/fragment_bmi" >
+        <action
+            android:id="@+id/action_bmi_to_history"
+            app:destination="@id/history" />
+        <action
+            android:id="@+id/action_bmi_to_consultation"
+            app:destination="@id/consultation" />
+        <action
+            android:id="@+id/action_bmi_to_blogs"
+            app:destination="@id/blogs" />
+    </fragment>
+    <fragment
+        android:id="@+id/search"
+        android:name="com.example.android.diabecare.ui.Search"
+        android:label="Search"
+        tools:layout="@layout/fragment_search" >
+        <action
+            android:id="@+id/action_search_to_bmi"
+            app:destination="@id/bmi" />
+        <action
+            android:id="@+id/action_search_to_history"
+            app:destination="@id/history" />
+        <action
+            android:id="@+id/action_search_to_blogs"
+            app:destination="@id/blogs" />
+    </fragment>
+    <fragment
+        android:id="@+id/consultation"
+        android:name="com.example.android.diabecare.ui.Consultation"
+        android:label="Consultation" >
+        <action
+            android:id="@+id/action_consultation_to_bmi"
+            app:destination="@id/bmi" />
+        <action
+            android:id="@+id/action_consultation_to_blogs"
+            app:destination="@id/blogs" />
+    </fragment>
+    <fragment
+        android:id="@+id/blogs"
+        android:name="com.example.android.diabecare.ui.Blogs"
+        android:label="Blogs" >
+        <action
+            android:id="@+id/action_blogs_to_bmi"
+            app:destination="@id/bmi" />
+    </fragment>
+</navigation>

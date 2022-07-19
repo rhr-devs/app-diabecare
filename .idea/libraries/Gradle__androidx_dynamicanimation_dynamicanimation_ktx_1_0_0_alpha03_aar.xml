@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.dynamicanimation:dynamicanimation-ktx:1.0.0-alpha03@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/65ca4c10cf69f5aad21c661013491ccb/transformed/dynamicanimation-ktx-1.0.0-alpha03/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/63970ded61fb6cb2a19a8d0fcae3ffe2/transformed/jetified-dynamicanimation-ktx-1.0.0-alpha03/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/185e8ba8cca82b990cc5638c5bb7791f/transformed/dynamicanimation-ktx-1.0.0-alpha03/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/9099d44eaa7b0c7e35ce03cd806c538b/transformed/dynamicanimation-ktx-1.0.0-alpha03/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/9099d44eaa7b0c7e35ce03cd806c538b/transformed/dynamicanimation-ktx-1.0.0-alpha03/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-3/9099d44eaa7b0c7e35ce03cd806c538b/transformed/dynamicanimation-ktx-1.0.0-alpha03/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/androidx.dynamicanimation/dynamicanimation-ktx/1.0.0-alpha03/844edc443d207e9c2bf58eddbae80f6d7bc940cd/dynamicanimation-ktx-1.0.0-alpha03-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

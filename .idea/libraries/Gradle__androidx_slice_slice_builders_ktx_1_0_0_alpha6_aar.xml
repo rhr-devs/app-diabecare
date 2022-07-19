@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.slice:slice-builders-ktx:1.0.0-alpha6@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/323b0f336a17d6e58bd660050eaa7b1b/transformed/slice-builders-ktx-1.0.0-alpha6/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/29d666fd967650680d3402562c317845/transformed/jetified-slice-builders-ktx-1.0.0-alpha6/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/3b02f5a5609f03e3b44cd8ef16a050df/transformed/slice-builders-ktx-1.0.0-alpha6/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-3/67715cd205881be4b434cca7253a698e/transformed/slice-builders-ktx-1.0.0-alpha6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/67715cd205881be4b434cca7253a698e/transformed/slice-builders-ktx-1.0.0-alpha6/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/67715cd205881be4b434cca7253a698e/transformed/slice-builders-ktx-1.0.0-alpha6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/androidx.slice/slice-builders-ktx/1.0.0-alpha6/12978a1d69f9836f7e5f1194a0d9bebab03514a9/slice-builders-ktx-1.0.0-alpha6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
